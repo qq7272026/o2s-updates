@@ -1,0 +1,8 @@
+{
+    "version":  "1.1.0",
+    "url":  "https://github.com/qq7272026/o2s-updates/releases/download/v1.1.0/Oracle2StarRocks-1.1.0.zip",
+    "sha256":  "c7eaee3b1930da4de844e9630e3406bbb9fa7413a0fb69d17d21d8a3f96a9fd0",
+    "size":  4049516,
+    "mandatory":  false,
+    "notes":  "首个支持自动更新的版本"
+}
