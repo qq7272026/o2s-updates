@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.1",
-    "url":  "https://github.com/qq7272026/o2s-updates/releases/download/v1.1.1/Oracle2StarRocks-1.1.1.zip",
-    "sha256":  "4a7a790f1416240b2234e287358bae2cd6da9387def3ec374c5d0bac4e32ff58",
-    "size":  4108175,
+    "version":  "1.1.2",
+    "url":  "https://github.com/qq7272026/o2s-updates/releases/download/v1.1.2/Oracle2StarRocks-1.1.2.zip",
+    "sha256":  "6482f8bd70cf96c27bc354b22885ab6753a5c4c8690bc85d190fe90a386fe548",
+    "size":  4106807,
     "mandatory":  false,
-    "notes":  "更新源内置默认地址：主 Gitee，失败自动切换 GitHub 镜像"
+    "notes":  "软件更新窗口只显示版本号，更新地址内置"
 }
