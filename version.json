@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.1",
-    "url":  "https://github.com/qq7272026/o2s-updates/releases/download/v1.2.1/Oracle2StarRocks-1.2.1.zip",
-    "sha256":  "a254d2ff7f9403f2a99ffc8d3fdd5c42413c8e4a86554c403a19dfce171ee1a6",
-    "size":  4124210,
+    "version":  "1.2.2",
+    "url":  "https://github.com/qq7272026/o2s-updates/releases/download/v1.2.2/Oracle2StarRocks-1.2.2.zip",
+    "sha256":  "4c5d7de1a2b916838771cb6af3c7858513c294448f4aabbb19e3b3a5be0a9fd1",
+    "size":  4124799,
     "mandatory":  false,
-    "notes":  "新增分区管理：新增/批量新增/修改桶数/修改副本/删除分区"
+    "notes":  "分区管理按钮改为实心强调样式；修改桶数同时更新表默认桶数"
 }
